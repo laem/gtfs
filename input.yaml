@@ -45,6 +45,12 @@ datasets:
     prefix: fr-pdl
     prefixServiceIds: true
   # Provence-Alpes-Côte d'Azur
+  - slug: lignes-des-reseaux-transport-zou-provence-alpes-cote-d-azur-proximite-3-3
+    prefix: fr-pac-proximite
+  - slug: lignes-des-reseaux-transport-zou-provence-alpes-cote-d-azur-express-3-3
+    prefix: fr-pac-express
+  - slug: lignes-des-reseaux-transport-zou-provence-alpes-cote-d-azur-scolaire-1-3
+    prefix: fr-pac-scolaire
 
   # DATASETS DE COMMUNES / AGGLOMÉRATIONS
   # Blois (réseau Azalys)
