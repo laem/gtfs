@@ -77,6 +77,9 @@ datasets:
   # Métropole Toulouse
   - slug: tisseo-offre-de-transport-gtfs
     prefix: fr-toulouse
+  # Métropole Européenne de Lille
+  - slug: localisation-des-arrets-ilevia-bus-metro-et-tram-gtfs-pictogrammes-du-reseau-ilevia-2
+    prefix: fr-lille
 
   # DATASETS PRIVÉS
   # SNCF
