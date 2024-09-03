@@ -45,6 +45,12 @@ datasets:
     prefix: fr-pdl
     prefixServiceIds: true
   # Provence-Alpes-Côte d'Azur
+  - slug: lignes-des-reseaux-transport-zou-provence-alpes-cote-d-azur-proximite-3-3
+    prefix: fr-pac-proximite
+  - slug: lignes-des-reseaux-transport-zou-provence-alpes-cote-d-azur-express-3-3
+    prefix: fr-pac-express
+  - slug: lignes-des-reseaux-transport-zou-provence-alpes-cote-d-azur-scolaire-1-3
+    prefix: fr-pac-scolaire
 
   # DATASETS DE COMMUNES / AGGLOMÉRATIONS
   # Blois (réseau Azalys)
@@ -75,6 +81,21 @@ datasets:
   # Métropole Toulouse
   - slug: tisseo-offre-de-transport-gtfs
     prefix: fr-toulouse
+  # Communauté d'Agglomération Sophia Antipolis (réseau Envibus)
+  - slug: arrets-horaires-et-parcours-theoriques-des-bus-du-reseau-des-transports-publics-envibus
+    prefix: fr-casa
+  # Communauté d'Agglomération Cannes Pays de Lérins (réseau Palm Bus)
+  - slug: horaires-theoriques-et-temps-reel-gtfs-gtfs-rt-du-reseau-palmbus-cannes-pays-de-lerins
+    prefix: fr-cannes
+  # Dracénie Provence-Verdon (réseau TEB Bus)
+  - slug: tedbus-horaires-des-lignes-reseau
+    prefix: fr-dracenie-provence-verdon
+  # Riviera Française (réseau Keolis Menton Riviera)
+  - slug: horaires-reseau-zest
+    prefix: fr-riviera-française
+  # Métropole Nice Côte d'Azur (réseau Ligne d'Azur)
+  - slug: export-quotidien-au-format-gtfs-du-reseau-de-transport-lignes-d-azur
+    prefix: fr-nice
 
   # DATASETS PRIVÉS
   # SNCF
