@@ -73,6 +73,9 @@ datasets:
   # Metz (réseau Le Met')
   - slug: fichiers-gtfs-eurometropole-de-metz
     prefix: fr-metz
+  # Thionville (réseau Citéline)
+  - slug: fr-200052264-t0040-0000-1
+    prefix: fr-thionville
   # Reims (réseau Grand Reims mobilités)
   - slug: offre-de-transport-du-reseau-grand-reims-mobilites-communaute-urbaine-du-grand-reims
     prefix: fr-reims
