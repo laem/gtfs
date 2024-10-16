@@ -79,6 +79,9 @@ datasets:
   # Nancy (réseau Stan)
   - slug: arrets-horaires-et-parcours-theoriques-du-reseau-stan-gtfs
     prefix: fr-nancy
+  # Nancy (réseau Sub)
+  - slug: fr-200052264-t0039-0000-1
+    prefix: fr-nancy-sub
   # Epinal (réseau Imagine)
   - slug: fr-200052264-t0009-0000-1
     prefix: fr-epinal
