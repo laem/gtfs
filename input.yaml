@@ -82,6 +82,9 @@ datasets:
   # Epinal (réseau Imagine)
   - slug: fr-200052264-t0009-0000-1
     prefix: fr-epinal
+  # Langres (réseau Linggo En Ville)
+  - slug: offre-de-transport-du-reseau-linggo-en-ville-petr-du-pays-de-langres
+    prefix: fr-langres
   # Métropole Marseille Aix
   - slug: reseaux-de-transports-en-commun-de-la-metropole-daix-marseille-provence-et-des-bouches-du-rhone
     prefix: fr-marseille-aix
